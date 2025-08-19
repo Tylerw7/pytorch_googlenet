@@ -1,6 +1,6 @@
 # pytorch_googlenet
 
-GoogLeNet Model below
+GoogLeNet Model below 
 
 
 
