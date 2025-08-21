@@ -2,6 +2,7 @@
 
 GoogLeNet Model below 
 This repository also includes: 
+- Spam Email Classifier build with pytorch NN
 
 
 
